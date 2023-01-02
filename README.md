@@ -71,3 +71,6 @@ Where these val_x values are respectively:
 - Net Income to Total Assets
 
 That's all, now consume the API and have fun :smile:
+
+## App
+If you want to use an app for an easier way to handle this prediction service, read this [repository](https://github.com/josevasquez123/Bankruptcy-Prediction-App)

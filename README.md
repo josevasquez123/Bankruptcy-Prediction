@@ -69,3 +69,5 @@ Where these val_x values are respectively:
 - Retained Earnings to Total Assets
 - Current Liability to Current Assets
 - Net Income to Total Assets
+
+That's all, now consume the API and have fun :smile:
